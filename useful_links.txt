@@ -1,0 +1,8 @@
+use config and after use terraform init to activate the provider:
+https://registry.terraform.io/providers/hashicorp/azurerm/latest
+
+short instruction finde here:
+https://github.com/hashicorp/terraform-provider-azurerm
+
+here you will find templates for resource creating:
+https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/resource_group
